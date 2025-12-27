@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Plastic Love",
+  "base_artist": "竹内まりや",
+  "createdAt": "2025-12-27T09:37:11.882674Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Plastic Love",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/01_Plastic_Love_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Plastic Love",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/02_Plastic_Love_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Plastic Love",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/03_Plastic_Love_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Plastic Love",
+      "artist": "Divino Niño",
+      "has_synced": false,
+      "path": "select/04_Plastic_Love_Divino_Niño.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Plastic Love",
+      "artist": "Friday Night Plans",
+      "has_synced": true,
+      "path": "select/05_Plastic_Love_Friday_Night_Plans.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Plastic Love",
+      "artist": "eill",
+      "has_synced": true,
+      "path": "select/06_Plastic_Love_eill.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Plastic Love",
+      "artist": "Caitlin Myers feat. Megan Shipman",
+      "has_synced": true,
+      "path": "select/07_Plastic_Love_Caitlin_Myers_feat._Megan_Shipman.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Plastic Love",
+      "artist": "Caitlin Myers",
+      "has_synced": false,
+      "path": "select/08_Plastic_Love_Caitlin_Myers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Plastic Love (From \"Mariya Takeuchi\")",
+      "artist": "Nattalia Sarria",
+      "has_synced": true,
+      "path": "select/09_Plastic_Love_(From__Mariya_Takeuchi_)_Nattalia_Sarria.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Plastic Love",
+      "artist": "tofubeats",
+      "has_synced": true,
+      "path": "select/10_Plastic_Love_tofubeats.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Plastic Love (feat. Megan Shipman)",
+      "artist": "Caitlin Myers",
+      "has_synced": true,
+      "path": "select/11_Plastic_Love_(feat._Megan_Shipman)_Caitlin_Myers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Plastic Love",
+      "artist": "竹内 まりや",
+      "has_synced": false,
+      "path": "select/pl_01_Plastic_Love_竹内_まりや.txt"
+    }
+  ]
+}
